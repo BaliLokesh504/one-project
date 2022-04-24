@@ -1,0 +1,13 @@
+{
+    "development":{
+        "DBPORT": 3306,
+        "HOST": "localhost",
+        "USERNAME": "admin",
+        "PASSWORD": "root",
+        "DATABASE": "one_db",
+        "dialect": "mysql",
+        "JWT_SECRET": "secret-key-one",
+        "JWT_EXP" : "30 days",
+        "PORT" : 8000
+     }
+}
